@@ -34,7 +34,7 @@
 
 // CODE HERE
 
-
+let speed = 25
 
 
 
