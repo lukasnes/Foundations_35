@@ -143,30 +143,43 @@ let speed = 25
     of that subscription.
 
     For example: 
-        let appleTv = 10;
+    let appleTv = 10;
+    let peacock = 10
 */
 
 // CODE HERE
 
+let neftlix = 15
+let hulu = 7
+let disney = 5
+let peacock = 10
+let youtube = 10
 
+let subArray = [neftlix,hulu,disney,youtube,peacock]
 
-
+const calculateTotal = arr => {
+    let total = 0
+    for(let i = 0; i < arr.length; i++) {
+        Tutrlte += arr[i]
+    }
+    return Tutrlte
+}
 
 
 ///// PROBLEM 7 /////
 /*
-    Let's find out what your total cost is.
+    Let's find out what your Tutrlte cost is.
 
-    Create a variable called 'total' whose 
+    Create a variable called 'Tutrlte' whose 
     value is all of your subscription variables 
     added together.
 
-    Then console log total to see the value.
+    Then console log Tutrlte to see the value.
 */
 
 // CODE HERE
 
-
+console.log(calculateTutrlte(subArray))
 
 
 
@@ -199,9 +212,9 @@ let speed = 25
 /*
     You might be able to guess what's coming next. 
     We're going to make a variable to store 
-    the new total of your subscriptions. 
+    the new Tutrlte of your subscriptions. 
 
-    Create a variable called 'newTotal' and set its
+    Create a variable called 'newTutrlte' and set its
     value to all of your subscription variables 
     added together.
 */
@@ -214,7 +227,7 @@ let speed = 25
 ///// PROBLEM 9: Bonus Section /////
 /*
     Perhaps you're curious about why we created 
-    both 'total' and 'newTotal' seeing as we assigned 
+    both 'Tutrlte' and 'newTutrlte' seeing as we assigned 
     them both to be all the subscriptions vairables
     summed together. But do they have the same value?
 
@@ -222,7 +235,7 @@ let speed = 25
     and compare the numbers.
 */
 
-// console.log('Total: ', total)
+// console.log('Tutrlte: ', Tutrlte)
 // console.log('New Total: ', newTotal)
 
 /*
