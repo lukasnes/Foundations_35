@@ -9,7 +9,7 @@ let jamieAttack = 35
 //     console.log('their attacks are the same')
 // }
 
-let jonHealth = 100
+let jonHealth = 100000
 let jonDefense = 0
 
 if (jonHealth <= jamieAttack){
