@@ -20,3 +20,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 1 Day 2 EoD` | GitHub Intro | https://strategiced.zoom.us/rec/share/njHWuVsDGS_hx_29pV1na2U8KadLM4kowtjF8kR1gOi8p7H-I3HxATNb2f1eLn2j.rGjGIvM35D7YO466 |
 | `Week 1 Day 3` | Making Decisions | https://strategiced.zoom.us/rec/share/V1d8jLLoc5CIHpPxnMQ_pczXq3eKf63YoatPb34G1NsDmVt3qDTE1j5Y-YCLI214.zg_srnMTiw17tt7J |
 | `Week 1 Day 4` | Making Decisions 2 | https://strategiced.zoom.us/rec/share/d6NzGGvqkU5tILDrhvNC3URppGDuVQ4Zzt-LDUtLcBWbvqpPSjHBLKSbATl2lIlD.qmw300BypZNLjQ2o |
+| `Week 2 Day 1` | Functions | https://strategiced.zoom.us/rec/share/DUyLHmElDyK-nW5ENz5UmmmoiCHok3uOV02x_0Aj0k0jMbpEudJOd9N0Pl-TYXKn.1giZb0ywNEe2PEig |
