@@ -90,3 +90,11 @@ const greetingMachineTwo = (personObj,functionObj) => {
 }
 
 console.log(greetingMachineTwo(people,greetings))
+
+// ========================================================
+
+console.log("========================")
+let number = 25
+const arrow = (param, paramTwo) => {
+    return param + paramTwo
+}
