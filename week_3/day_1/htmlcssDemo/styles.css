@@ -1,0 +1,33 @@
+*{
+    color: rgb(12, 93, 186);
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+    color:#98473E;
+    background-color: rebeccapurple;
+    text-align: center;
+}
+
+p{
+    color: peru;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    background-color: turquoise;
+    padding: 10px;
+    border: 5px dashed red ;
+    margin: 30px;
+}
+
+div > h4 {
+    background-color: red;
+    padding: 30px;
+    margin: 10px;
+}
+
+img {
+    height: 300px;
+}
