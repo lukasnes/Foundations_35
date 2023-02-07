@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+}
+
+header{
+    background-color: #24292F;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#git-icon{
+    height: 25px;
+    filter: invert(1);
+    margin: 10px;
+}
+
+#header-search{
+    background-color: #24292F;
+    border: rgb(117, 117, 117) 1px solid;
+    border-radius: 5px;
+    color: aliceblue;
+    width: 200px;
+    margin: 10px;
+}
+
+#left-header{
+    display: flex;  
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav-link{
+    color: aliceblue;
+    font-size: small;
+    font-weight: bold;
+    margin: 5px;
+}
+
+#notif-icon{
+    height: 20px;
+    filter: invert(1);
+    margin: 5px;
+}
+#plus{
+    height: 20px;
+    filter: invert(1);
+    margin: 5px;
+}
+#profile-pic{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 5px;
+}
