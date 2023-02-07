@@ -26,3 +26,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 4` | Functions 3 | https://strategiced.zoom.us/rec/share/J41mx4TB_Uuj5-1QPrPA_bnFY2UQC1KUepVDV3fHFYI6PsDe29-nJqYwh-e4bBnA.kTSn8dVkuaFOhi_5 |
 | `Week 2 Day 5` | Design | https://strategiced.zoom.us/rec/share/uxq9aiCUYuUe8dKLWJ1Fuu3_BU_gPXYYiyT5DOdOlu7O5S8xwNogg3t2E_O3ze0G.6Me-gBVaWuJlKa2c |
 | `Week 3 Day 1` | HTML 1 | https://strategiced.zoom.us/rec/share/1YlSJETUITwGyJF8nJ6rSRXAEK7ctAKwSMGZRtGq8VPExIFMxjsN6FaNOT2aqsyr.LbcJRY-peytUSItP |
+| `Week 3 Day 2` | HTML 2 | https://strategiced.zoom.us/rec/share/ktKAFxOlbByIhZ30UaUPc7_tg9-hmuGHhbyo68qMJ-0_Yy3ZiC7eCTi_JsFQdha7.lEQbMAepXOSLy68J |
