@@ -23,3 +23,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 1` | Functions | https://strategiced.zoom.us/rec/share/DUyLHmElDyK-nW5ENz5UmmmoiCHok3uOV02x_0Aj0k0jMbpEudJOd9N0Pl-TYXKn.1giZb0ywNEe2PEig |
 | `Week 2 Day 2` | Object Orientation | https://strategiced.zoom.us/rec/share/izhWKH6vFEm84V4193pfrPxsEGq6IurHqsC6uYNBh2t5lTYVRgcXzr59lqVpfGO4.tbglYoSHimVNAy6g |
 | `Week 2 Day 3` | Functions 2 | https://strategiced.zoom.us/rec/share/fH3vOcWWT7gFS1dgPtQTuDyBkIgSWv8iCL5J3hKoUhwQW8sD-ZcfqWxWobr2r7J1.IdpeEdKDvKNtw9k1 |
+| `Week 2 Day 4` | Functions 3 | https://strategiced.zoom.us/rec/share/J41mx4TB_Uuj5-1QPrPA_bnFY2UQC1KUepVDV3fHFYI6PsDe29-nJqYwh-e4bBnA.kTSn8dVkuaFOhi_5 |
+| `Week 2 Day 5` | Design | https://strategiced.zoom.us/rec/share/uxq9aiCUYuUe8dKLWJ1Fuu3_BU_gPXYYiyT5DOdOlu7O5S8xwNogg3t2E_O3ze0G.6Me-gBVaWuJlKa2c |
+| `Week 3 Day 1` | HTML 1 | https://strategiced.zoom.us/rec/share/1YlSJETUITwGyJF8nJ6rSRXAEK7ctAKwSMGZRtGq8VPExIFMxjsN6FaNOT2aqsyr.LbcJRY-peytUSItP |
