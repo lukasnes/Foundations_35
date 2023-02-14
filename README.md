@@ -27,3 +27,7 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 5` | Design | https://strategiced.zoom.us/rec/share/uxq9aiCUYuUe8dKLWJ1Fuu3_BU_gPXYYiyT5DOdOlu7O5S8xwNogg3t2E_O3ze0G.6Me-gBVaWuJlKa2c |
 | `Week 3 Day 1` | HTML 1 | https://strategiced.zoom.us/rec/share/1YlSJETUITwGyJF8nJ6rSRXAEK7ctAKwSMGZRtGq8VPExIFMxjsN6FaNOT2aqsyr.LbcJRY-peytUSItP |
 | `Week 3 Day 2` | HTML 2 | https://strategiced.zoom.us/rec/share/ktKAFxOlbByIhZ30UaUPc7_tg9-hmuGHhbyo68qMJ-0_Yy3ZiC7eCTi_JsFQdha7.lEQbMAepXOSLy68J |
+| `Week 3 Day 3` | Interactive JS | https://strategiced.zoom.us/rec/share/-adAPIw3WtLpbCN0AoulZkobzNAfSv7RmrObYOTVwuQVusWMspwGUOik_LXvhwUq._8qUq2HBtEN-5CXz |
+| `Week 3 Day 4` | Interactive JS 2 | https://strategiced.zoom.us/rec/share/8RGTuF-gpd8fqBsviXsrzKXVerN0XWWX9uA8MbWwe5DufTksRpdd17HkjU3soeJC.JmKVk4_a-rgmrKl_ |
+| `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/qt7mNTU8EJPl-AQMgh37VUw1MW3gYYl4B8DZK49ToKmqhxDc1lIyk_IB4SQ9bLWq.ABgP9vnHxLCu5zTa |
+| `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/aMtjn_Fkd_flT26Y1Zqi-neFxpVWgoCYbx3KaG89QbjVme72Sw6puqMg3xgpYkOX.ZiEkJJZo__ua97Zm |

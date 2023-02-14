@@ -43,4 +43,20 @@ app.get('/api/names/:type', (req,res) => {
     res.status(200).send(newNameArr)
 })
 
+app.get('/api/first/:compliment', (req,res) => {
+    let { compliment } = req.params
+    let firstNames = namesArr.map(namesObj => namesObj.firstName)
+    let returnStr = `
+    <h1 style="color:red;background-color:black;text-align:center">
+        The people inside my datalist are ${firstNames}. They are really ${compliment}
+    </h1>`
+    res.status(200).send(returnStr)
+})
+
+app.get('/api/albums/:apple/songs/:banana', (req,res) => {
+    console.log(req.params)
+    let { album, song } = req.params
+    res.status(200).send(`My favorite song from ${album} is ${song}`)
+})
+
 app.listen(4000, console.log(`App running on port 4000!`))
