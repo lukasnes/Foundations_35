@@ -31,3 +31,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 4` | Interactive JS 2 | https://strategiced.zoom.us/rec/share/8RGTuF-gpd8fqBsviXsrzKXVerN0XWWX9uA8MbWwe5DufTksRpdd17HkjU3soeJC.JmKVk4_a-rgmrKl_ |
 | `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/qt7mNTU8EJPl-AQMgh37VUw1MW3gYYl4B8DZK49ToKmqhxDc1lIyk_IB4SQ9bLWq.ABgP9vnHxLCu5zTa |
 | `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/aMtjn_Fkd_flT26Y1Zqi-neFxpVWgoCYbx3KaG89QbjVme72Sw6puqMg3xgpYkOX.ZiEkJJZo__ua97Zm |
+| `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/SfIaZxU527am9ea0ofbvC78M915pv1wbDqzFoOUlElMBhu7_b3Tk1Vkk0oQAsntD.SsXnJ-d6eZmfReji |

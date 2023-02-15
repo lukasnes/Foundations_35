@@ -1,0 +1,73 @@
+header {
+    height: 150px;
+    background-color: darkgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid black;
+}
+
+h1 {
+    color: white;
+    font-size: 3em;
+    font-weight: bold;
+}
+p {
+    color: white;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+section {
+    height: calc(100vh - 150px);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(35, 34, 34);
+}
+
+form {
+    background-color: darkgray;
+    border: 5px solid black;
+}
+
+.poke-div{
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-evenly;
+    background-color: darkgray;
+    border: 5px solid black;
+}
+.poke-stats{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+}
+
+.stat {
+    font-size: 1em;
+    color: yellow;
+}
+.stat-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+}
+.stat-div{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+}
