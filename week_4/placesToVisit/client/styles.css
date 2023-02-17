@@ -1,0 +1,23 @@
+header{
+    height: 150px;
+    background-color: lightcoral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1{
+    color: white;
+}
+
+main{
+    display: flex;
+}
+
+section{
+    flex: .5;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
