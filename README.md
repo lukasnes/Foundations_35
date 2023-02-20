@@ -32,3 +32,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 4 Day 1` | Backend 1 | https://strategiced.zoom.us/rec/share/qt7mNTU8EJPl-AQMgh37VUw1MW3gYYl4B8DZK49ToKmqhxDc1lIyk_IB4SQ9bLWq.ABgP9vnHxLCu5zTa |
 | `Week 4 Day 2` | Backend 2 | https://strategiced.zoom.us/rec/share/aMtjn_Fkd_flT26Y1Zqi-neFxpVWgoCYbx3KaG89QbjVme72Sw6puqMg3xgpYkOX.ZiEkJJZo__ua97Zm |
 | `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/SfIaZxU527am9ea0ofbvC78M915pv1wbDqzFoOUlElMBhu7_b3Tk1Vkk0oQAsntD.SsXnJ-d6eZmfReji |
+| `Week 4 Day 4` | Cybersecurity | https://strategiced.zoom.us/rec/share/knicuRQrcVVvJx8DHMgHbR3Fz2TCTKFINfH9o1kno0SLvIJXdpC7yxlj-aayVfYX.9oUBbya3nMo_jDqd |
+| `Week 5 Day 1` | Intro to SQL | https://strategiced.zoom.us/rec/share/s5BY0HszUaILga4cgOOWZjC9g1iGTmSLaudXvfcJjiGFRGiada37d7XJCMjTPVOA.4Wbq6S-QC1b_pb34 |
