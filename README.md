@@ -34,3 +34,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 4 Day 3` | APIs | https://strategiced.zoom.us/rec/share/SfIaZxU527am9ea0ofbvC78M915pv1wbDqzFoOUlElMBhu7_b3Tk1Vkk0oQAsntD.SsXnJ-d6eZmfReji |
 | `Week 4 Day 4` | Cybersecurity | https://strategiced.zoom.us/rec/share/knicuRQrcVVvJx8DHMgHbR3Fz2TCTKFINfH9o1kno0SLvIJXdpC7yxlj-aayVfYX.9oUBbya3nMo_jDqd |
 | `Week 5 Day 1` | Intro to SQL | https://strategiced.zoom.us/rec/share/s5BY0HszUaILga4cgOOWZjC9g1iGTmSLaudXvfcJjiGFRGiada37d7XJCMjTPVOA.4Wbq6S-QC1b_pb34 |
+| `Week 5 Day 2` | Data Modeling | https://strategiced.zoom.us/rec/share/fbm020FjrAMceTD81D3bytF5tkkfkAKClyJ329pITiPpR2s8lvPbsB3lTtueUp-S.lhjh66teKzXnZSjq |
+| `Week 5 Day 3` | SQL in Practice | https://strategiced.zoom.us/rec/share/JCEEueKGJH0Ircp8ln1ypIpViX3OzlLvMctpNJ9dOdMcbeNhpWeKnaa3Sc7qkVr9.9eKPW9ARZXuMwOHQ |
