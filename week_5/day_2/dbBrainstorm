@@ -1,0 +1,65 @@
+FEATURES
+users can sign into the app with their email and password
+
+users can follow each other
+
+users can create posts with photos and/or text
+
+users can comment on posts
+
+users can join groups
+
+users can create posts within groups
+
+Brainstorming
+
+username
+email
+password
+profile pic
+bio
+
+followers/following
+
+post text
+tags
+user posted
+photos
+
+comments
+user commeneted
+
+groups
+group members
+group posts
+
+Tables
+
+Users: store all user information
+
+Posts: store all posts and related info
+postsTags: keeps track of tags for each post
+tags: keeps track af the different types of tags for posts
+
+liked: user => post
+
+follow: relationships between followed users
+
+photos: link/img and post is relates to
+
+comments: holds comments and related info (user/post)
+
+groups: group id and name
+groupMembers: names of members for each group
+
+
+one-to-one: posts<=>photos
+
+one-to-many:
+    users => following/followers
+    users => posts
+    users => comments
+
+many-to-many:
+    post <=> Tags
+    users <=> group
