@@ -36,3 +36,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 5 Day 1` | Intro to SQL | https://strategiced.zoom.us/rec/share/s5BY0HszUaILga4cgOOWZjC9g1iGTmSLaudXvfcJjiGFRGiada37d7XJCMjTPVOA.4Wbq6S-QC1b_pb34 |
 | `Week 5 Day 2` | Data Modeling | https://strategiced.zoom.us/rec/share/fbm020FjrAMceTD81D3bytF5tkkfkAKClyJ329pITiPpR2s8lvPbsB3lTtueUp-S.lhjh66teKzXnZSjq |
 | `Week 5 Day 3` | SQL in Practice | https://strategiced.zoom.us/rec/share/JCEEueKGJH0Ircp8ln1ypIpViX3OzlLvMctpNJ9dOdMcbeNhpWeKnaa3Sc7qkVr9.9eKPW9ARZXuMwOHQ |
+| `Week 6 Day 1` | Intro to QA | https://strategiced.zoom.us/rec/share/mAIXudgoFfYYbjklF6W4shiwAPzYXToatFh8H_lY8vZBmLRtNDLnKGISWu4kXeB1.tKkYHAlqJEJanr8T |
+| `Week 6 Day 2` | Automation | https://strategiced.zoom.us/rec/share/PoVb9z025Z0vA3Jq6YrFcHaXw_foHBDuPcsfqg8f8CAuVLQ7uindIUYQmQlFny9d.L7w0pF9TT1dy0XH6 |
