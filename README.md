@@ -38,3 +38,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 5 Day 3` | SQL in Practice | https://strategiced.zoom.us/rec/share/JCEEueKGJH0Ircp8ln1ypIpViX3OzlLvMctpNJ9dOdMcbeNhpWeKnaa3Sc7qkVr9.9eKPW9ARZXuMwOHQ |
 | `Week 6 Day 1` | Intro to QA | https://strategiced.zoom.us/rec/share/mAIXudgoFfYYbjklF6W4shiwAPzYXToatFh8H_lY8vZBmLRtNDLnKGISWu4kXeB1.tKkYHAlqJEJanr8T |
 | `Week 6 Day 2` | Automation | https://strategiced.zoom.us/rec/share/PoVb9z025Z0vA3Jq6YrFcHaXw_foHBDuPcsfqg8f8CAuVLQ7uindIUYQmQlFny9d.L7w0pF9TT1dy0XH6 |
+| `Week 6 Day 3` | Deployment | https://strategiced.zoom.us/rec/share/VxlWDoG9UNBfg5Q5AU9y60oZSlzfyS9KAh3YfX-uUTrukhJDzJRx0dW3GaITKNlo.W00S4bOoX85-KxbR |
+| `Week 6 Day 4` | Rollbar | https://strategiced.zoom.us/rec/share/tXEZYbvxAeWlrDTSULfUJqqZOVv67xLcvvRwwwBDLy_u8zNSy2RD0vD5-3aMd41c.-mobZGPUCkCd_9DH |
