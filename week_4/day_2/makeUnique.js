@@ -1,13 +1,17 @@
 const makeUnique = str => {
-    let newStr = ''
-    for(let i = 0; i < str.length; i++){
-        if(!newStr.includes(str[i])){
-            newStr += str[i]
+    let newStr = ''                      //O(1)
+    for(let i = 0; i < str.length; i++){ //O(n)
+        if(!newStr.includes(str[i])){    //O(1)
+            newStr += str[i]             //O(1)
         }
     }
 
     return newStr
 }
+//O(1 + n(1(1)))
+//O(n)
+//O(n)
+
 
 console.log(makeUnique('iwanttoclimbamountain'))
 console.log(makeUnique('helloworld'))

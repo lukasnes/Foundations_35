@@ -22,6 +22,8 @@ const createHourString = hourStr => {
 
     return hoursArr[hourStr]
 }
+//O(1) -- time
+//O(n) -- space
 
 const createMinuteString = minuteStr => {
     let belowTwenties = [
@@ -80,22 +82,31 @@ const createMinuteString = minuteStr => {
     return
 }
 
+//O(n) -- time
+//O(n) -- space
+
 const timeWords = timeStr => {
-    if(timeStr === "0:00"){
-        return "midnight"
-    } else if (timeStr === "12:00"){
-        return "noon"
+    if(timeStr === "0:00"){             //O(1)
+        return "midnight"               //O(1)
+    } else if (timeStr === "12:00"){    //O(1)
+        return "noon"                   //O(1)
     }
 
-    let timeArr = timeStr.split(":")
+    let timeArr = timeStr.split(":")    //O(n)
     console.log(timeArr)
-    let hours = createHourString(timeArr[0])
-    let minutes = createMinuteString(timeArr[1])
+    let hours = createHourString(timeArr[0]) //O(1)
+    let minutes = createMinuteString(timeArr[1]) //O(n)
 
-    let halfOfDay = parseInt(timeArr[0]) < 12 ? "am" : "pm"
+    let halfOfDay = parseInt(timeArr[0]) < 12 ? "am" : "pm" //O(1)
 
     return hours + " " + minutes + " " + halfOfDay
 }
+
+//O(1(1) + 1(1) + n + 1 + n + 1)
+//O(1 + 1 + n + 1 + n + 1)
+//O(2n + 4)
+//O(n) -- time
+//O(n) -- space
 
 console.log(timeWords("0:00"))
 console.log(timeWords("8:06"))
