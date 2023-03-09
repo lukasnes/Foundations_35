@@ -100,3 +100,16 @@ header {
     font-weight: 600;
     color: var(--black);
 }
+/* -------------------Main-------------------- */
+canvas{
+    position: absolute;
+    top: var(--header-height);
+    left: var(--sidebar-width);
+    /* width: calc(100vw - var(--sidebar-width));
+    height: calc(100vh - var(--header-height)); */
+    transition: 0.4s;
+}
+canvas.open{
+    left: var(--sidebar-open-width);
+    /* width: calc(100vw - var(--sidebar-open-width)); */
+}
