@@ -40,3 +40,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 6 Day 2` | Automation | https://strategiced.zoom.us/rec/share/PoVb9z025Z0vA3Jq6YrFcHaXw_foHBDuPcsfqg8f8CAuVLQ7uindIUYQmQlFny9d.L7w0pF9TT1dy0XH6 |
 | `Week 6 Day 3` | Deployment | https://strategiced.zoom.us/rec/share/VxlWDoG9UNBfg5Q5AU9y60oZSlzfyS9KAh3YfX-uUTrukhJDzJRx0dW3GaITKNlo.W00S4bOoX85-KxbR |
 | `Week 6 Day 4` | Rollbar | https://strategiced.zoom.us/rec/share/tXEZYbvxAeWlrDTSULfUJqqZOVv67xLcvvRwwwBDLy_u8zNSy2RD0vD5-3aMd41c.-mobZGPUCkCd_9DH |
+| `Week 7 Day 1` | Algorithms | https://strategiced.zoom.us/rec/share/tM8HhCeyH7ngjhl2dEabGid7LBHO5Fu-qCb92RbVP44_xf8BOiYD2C5c1J1m9bJl.x3PlVpaQ4_2bDRWr |
+| `Week 7 Day 2` | Big O | https://strategiced.zoom.us/rec/share/BjMrAZPw96XvltiBbUtTpInJmj92WiB0YBI4GnLV7w-Y5omygoXem0x0lMPTywv5.9DT27TC95dgawTjZ |
+| `Week 7 Day 3` | Data Structures | https://strategiced.zoom.us/rec/share/gCMsEcl-04nTYeKqmxAaPa2cixqubn1WkqZJiUbCEzTilXFI_wPPjVnzCr-MjgY.LU7g7BjEkqQvfLMy |
